@@ -1,0 +1,183 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+}
+
+.home1 {
+    background-image: url(../image/back2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.home2 {
+    background-image: url(../image/back3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.home3 {
+    background-image: url(../image/back4.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.home4 {
+    background-image: url(../image/back6.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.home5 {
+    background-image: url(../image/back2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.con1 {
+    height: 100%;
+    width: 30%;
+    background-image: url(https://whiteboard.is/wp-content/uploads/2017/05/Purp-Case-Study-Center.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.con2 {
+    height: 100%;
+    width: 40%;
+    background-image: url(http://whiteboard.is/wp-content/uploads/2017/05/Purposity-Cover-1-1920x883-c-center.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    background-position: left;
+    background-attachment: fixed;
+}
+
+.con3 {
+    height: 100%;
+    width: 30%;
+    background-image: url(https://whiteboard.is/wp-content/uploads/2017/05/Purp-Case-Study-Center.jpg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-left: -4px;
+}
+
+.home6 {
+    background-image: url(../image/back2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+}
+.box{
+      height:100%;
+}
+.box1{
+     background-image: url(http://whiteboard.is/wp-content/uploads/2017/05/Purposity-Cover-1-1920x883-c-center.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.home7{
+    background-image: url(https://whiteboard.is/wp-content/uploads/2017/05/Purp-Case-Study-Center.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.home8{
+  background-image: url(https://images.pexels.com/photos/206673/pexels-photo-206673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.home9{
+    background-image: url(../image/main1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.home10{
+    
+ background-image: url(../image/main2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.home11{
+    
+ background-image: url(../image/main3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.home12{
+    
+ background-image: url(../image/main4.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.home13{
+    
+ background-image: url(../image/main5.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
